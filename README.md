@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Codewars](https://www.codewars.com/users/X3Z14/badges/large)](https://www.codewars.com/users/X3Z14)
+
 <!--
 **X3Z14/X3Z14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
